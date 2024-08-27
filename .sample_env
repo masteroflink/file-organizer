@@ -1,0 +1,9 @@
+SOURCE_DIR = '/Users/user_name/Documents/projects/file-organizer/test/src'
+
+DATA_DIR = '/Users/user_name/Documents/projects/file-organizer/test/data'
+IMAGE_DIR = '/Users/user_name/Documents/projects/file-organizer/test/image'
+DOCUMENTS_DIR = '/Users/user_name/Documents/projects/file-organizer/test/documents'
+EXE_DIR = '/Users/user_name/Documents/projects/file-organizer/test/exe'
+MUSIC_DIR = '/Users/user_name/Documents/projects/file-organizer/test/music'
+VIDEO_DIR = '/Users/user_name/Documents/projects/file-organizer/test/video'
+ARCHIVE_DIR = '/Users/user_name/Documents/projects/file-organizer/test/archive'
