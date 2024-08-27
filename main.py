@@ -1,5 +1,4 @@
 import os
-import shutil
 from dotenv import load_dotenv
 
 DOTENV_FILE = os.getenv('DOTENV_FILE', './.env')
